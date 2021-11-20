@@ -15,10 +15,10 @@
     "static/development/_middlewareManifest.js"
   ],
   "pages": {
-    "/ImageChangeOnMouseOver": [
+    "/": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/ImageChangeOnMouseOver.js"
+      "static/chunks/pages/index.js"
     ],
     "/ImageChangeOnScroll": [
       "static/chunks/webpack.js",
